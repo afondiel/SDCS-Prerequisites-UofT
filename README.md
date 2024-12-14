@@ -72,13 +72,12 @@ A list of recommended prerequisites for the [University of Toronto's Self-Drivin
 ## References
 
 **Courses Resources**
-- [Course Notes & Assignements](https://github.com/afondiel/Self-Driving-Cars-Specialization/tree/main)
-- [Course Projects](https://github.com/diesimo-ai/self-driving-car-projects)
-- [Course Blog Review](https://medium.com/@muntudiela/the-top-5-skills-i-learned-from-the-university-of-toronto-self-driving-cars-specialization-2023-6470b36fe7ed)
-
-**Notes From the course**
-- [Course Prerequisites - Notes](https://github.com/afondiel/Self-Driving-Cars-Specialization/blob/main/Course1-Introduction-to-Self-Driving-Cars/resources/Course-Prerequisites-Knowledge-Hardware-Software.md)
-- [Spreadsheet & Links](https://docs.google.com/spreadsheets/d/1VkTIZ3czhMvonNcRqsTJPW2s3aemIXe-1-XP_E3H5vk/edit?gid=0#gid=0)
+- [Notes & Assignements](https://github.com/afondiel/Self-Driving-Cars-Specialization/tree/main)
+- [All Projects](https://github.com/diesimo-ai/self-driving-car-projects)
+- [Blog Review](https://medium.com/@muntudiela/the-top-5-skills-i-learned-from-the-university-of-toronto-self-driving-cars-specialization-2023-6470b36fe7ed)
+- Prerequisites:
+  - [Course Notes](https://github.com/afondiel/Self-Driving-Cars-Specialization/blob/main/Course1-Introduction-to-Self-Driving-Cars/resources/Course-Prerequisites-Knowledge-Hardware-Software.md)
+  - [Spreadsheet & Useful links](https://docs.google.com/spreadsheets/d/1VkTIZ3czhMvonNcRqsTJPW2s3aemIXe-1-XP_E3H5vk/edit?gid=0#gid=0)
 - [Glossary](https://github.com/afondiel/Self-Driving-Cars-Specialization/blob/main/Course1-Introduction-to-Self-Driving-Cars/resources/glossary.md)
 
 **Inspirations:**
