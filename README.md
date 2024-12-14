@@ -1,10 +1,10 @@
 [![](https://img.shields.io/badge/Contribute-Welcome-green)](#)
 
-# **[University of Toronto Self-Driving Cars Specialization Prerequisites](https://github.com/afondiel/Self-Driving-Cars-Specialization/tree/main?tab=readme-ov-file)**
+# **University of Toronto Self-Driving Cars Specialization Prerequisites**
 
 ## Overview
 
-A list of recommended prerequisites for University of Toronto's Self-Driving Cars Specialization Prerequisites.
+A list of recommended prerequisites for the [University of Toronto's Self-Driving Cars Specialization](https://github.com/afondiel/Self-Driving-Cars-Specialization/tree/main?tab=readme-ov-file) Prerequisites.
 
 <img src="https://github.com/afondiel/Self-Driving-Cars-Specialization/blob/main/Course1-Introduction-to-Self-Driving-Cars/resources/w1/img/m0-intro.png?raw=true" width="600" style="border:0px solid #FFFFFF; padding:1px; margin:1px">
 
