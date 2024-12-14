@@ -1,4 +1,6 @@
-# **[University of Toronto Self-Driving Cars Specialization Prerequisites](https://www.coursera.org/account/accomplishments/specialization/SVJ5YGT8AW88?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=pdf_header_button&utm_product=s12n)**
+[![](https://img.shields.io/badge/Contribute-Welcome-green)](#)
+
+# **[University of Toronto Self-Driving Cars Specialization Prerequisites](https://github.com/afondiel/Self-Driving-Cars-Specialization/tree/main?tab=readme-ov-file)**
 
 <img src="https://github.com/afondiel/Self-Driving-Cars-Specialization/blob/main/Course1-Introduction-to-Self-Driving-Cars/resources/w1/img/m0-intro.png?raw=true" width="600" style="border:0px solid #FFFFFF; padding:1px; margin:1px">
 
@@ -74,12 +76,13 @@ A list of recommended prerequisites for University of Toronto's Self-Driving Car
 - [Course Projects](https://github.com/diesimo-ai/self-driving-car-projects)
 - [Course Blog Review](https://medium.com/@muntudiela/the-top-5-skills-i-learned-from-the-university-of-toronto-self-driving-cars-specialization-2023-6470b36fe7ed)
 
+**Notes From the course**
+- [Course Prerequisites - Notes](https://github.com/afondiel/Self-Driving-Cars-Specialization/blob/main/Course1-Introduction-to-Self-Driving-Cars/resources/Course-Prerequisites-Knowledge-Hardware-Software.md)
+- [Spreadsheet & Links](https://docs.google.com/spreadsheets/d/1VkTIZ3czhMvonNcRqsTJPW2s3aemIXe-1-XP_E3H5vk/edit?gid=0#gid=0)
+- [Glossary](https://github.com/afondiel/Self-Driving-Cars-Specialization/blob/main/Course1-Introduction-to-Self-Driving-Cars/resources/glossary.md)
+
 **Inspirations:**
 - [Awesome for Udacity's Self Driving Car Nanodegree by Nicholas Condo](https://github.com/ncondo/SDCND-Prerequisites)
 - [Awesome Spreadsheet by Amr Abd El](https://docs.google.com/spreadsheets/d/13QQinPFhU9DwujctXS0A7un0up4N5BNyUDZwxK4I6hg/edit?gid=0#gid=0)
 
-**Notes From the course**
-- [Course Prerequisites - Notes](https://github.com/afondiel/Self-Driving-Cars-Specialization/blob/main/Course1-Introduction-to-Self-Driving-Cars/resources/Course-Prerequisites-Knowledge-Hardware-Software.md)
-- [Spreadsheet](https://docs.google.com/spreadsheets/d/1VkTIZ3czhMvonNcRqsTJPW2s3aemIXe-1-XP_E3H5vk/edit?gid=0#gid=0)
-- [Glossary](https://github.com/afondiel/Self-Driving-Cars-Specialization/blob/main/Course1-Introduction-to-Self-Driving-Cars/resources/glossary.md)
 
