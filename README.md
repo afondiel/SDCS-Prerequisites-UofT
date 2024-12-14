@@ -1,4 +1,4 @@
-# **University of Toronto Self-Driving Cars Specialization Prerequisites](https://www.coursera.org/account/accomplishments/specialization/SVJ5YGT8AW88?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=pdf_header_button&utm_product=s12n)**
+# **[University of Toronto Self-Driving Cars Specialization Prerequisites](https://www.coursera.org/account/accomplishments/specialization/SVJ5YGT8AW88?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=pdf_header_button&utm_product=s12n)**
 
 <img src="https://github.com/afondiel/Self-Driving-Cars-Specialization/blob/main/Course1-Introduction-to-Self-Driving-Cars/resources/w1/img/m0-intro.png?raw=true" width="600" style="border:0px solid #FFFFFF; padding:1px; margin:1px">
 
