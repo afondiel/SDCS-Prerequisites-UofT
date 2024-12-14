@@ -2,11 +2,11 @@
 
 # **[University of Toronto Self-Driving Cars Specialization Prerequisites](https://github.com/afondiel/Self-Driving-Cars-Specialization/tree/main?tab=readme-ov-file)**
 
-<img src="https://github.com/afondiel/Self-Driving-Cars-Specialization/blob/main/Course1-Introduction-to-Self-Driving-Cars/resources/w1/img/m0-intro.png?raw=true" width="600" style="border:0px solid #FFFFFF; padding:1px; margin:1px">
-
 ## Overview
 
 A list of recommended prerequisites for University of Toronto's Self-Driving Cars Specialization Prerequisites.
+
+<img src="https://github.com/afondiel/Self-Driving-Cars-Specialization/blob/main/Course1-Introduction-to-Self-Driving-Cars/resources/w1/img/m0-intro.png?raw=true" width="600" style="border:0px solid #FFFFFF; padding:1px; margin:1px">
 
 ## Programming Languages
 - Python:
